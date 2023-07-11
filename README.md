@@ -2,7 +2,7 @@
 - 👀 I’m interested in science 
 - 🌱 I’m currently learning HTML and phyton 
 - 💞️ I’m looking to collaborate on something with HTML, i am  open to suggestions
-- 📫 contact me at discord - jelizaveta#7347
+- 📫 contact me at discord - liza_07
 
 
 <!---
